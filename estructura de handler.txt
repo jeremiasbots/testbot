@@ -1,0 +1,14 @@
+const Discord = require('discord.js');
+const client = new Discord.Client({ intents: 32767 })
+
+
+module.exports = {
+  name: "", 
+  alias: [], 
+
+async execute (client, message, args){
+
+
+ }
+
+} 
